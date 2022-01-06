@@ -104,7 +104,6 @@ theme: butterfly
 deploy:
   - type: git
     repo: 
-      git_hk: git@124.156.147.212:/home/git/blog.git
-      github: git@github.com:mqawa/Blog.git
+      github: 
     branch: master
     message: none
