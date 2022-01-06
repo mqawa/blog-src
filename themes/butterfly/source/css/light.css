@@ -1,0 +1,66 @@
+/*
+ *评论图标颜色
+ */
+ [data-theme="light"] .tk-extra-text[data-v-d82ce9a0], .tk-icon[data-v-d82ce9a0] {
+    color: #000;
+  }
+  
+  /*
+   *评论底部文字颜色
+   */
+  [data-theme="light"] .tk-footer[data-v-c0af544c]{
+    color: #000;
+  }
+  [data-theme="light"] .tk-footer[data-v-c0af544c] a {
+     color: #000;
+  }
+  
+  /*
+   * 最新文章颜色
+   */
+  [data-theme="light"] #aside-content .aside-list > .aside-list-item .content > time, #aside-content .aside-list > .aside-list-item .content > .name{
+    color: #000;
+  }
+  
+  /*
+   *首页文章颜色
+   */
+  [data-theme="light"] #recent-posts > .recent-post-item >.recent-post-info > .article-meta-wrap {
+    color: #000;
+  }
+  [data-theme="light"] #recent-posts > .recent-post-item >.recent-post-info > .article-meta-wrap a {
+      color: #000;
+  }
+  
+  /*
+   *版权链接颜色
+   */
+  [data-theme="light"] #post .post-copyright .post-copyright-info a {
+      color: #000;
+  }
+  
+  /*
+   *目录文字颜色
+   */
+  [data-theme="light"] #aside-content #card-toc .toc-content .toc-link {
+    color: #000;
+  }
+  [data-theme="light"] #aside-content #card-toc .toc-content:before {
+    color: #000;
+  }
+  
+  /*
+   *文章标题颜色
+   */
+  [data-theme="light"] #nav a {
+    color: #000;
+  }
+  [data-theme="light"] #post-info .post-title {
+    color: #000;
+  }
+  [data-theme="light"] #post-info #post-meta {
+    color: #000;
+  }
+  [data-theme="light"] #post-info #post-meta a {
+    color: #000;
+  }
