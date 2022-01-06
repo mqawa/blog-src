@@ -1,2 +1,2 @@
-# improved-meme
-blog source code
+MQ的博客源码  基于 Hexo 和 Butterfly
+[https://blog.mqawa.com/](https://blog.mqawa.com/)
