@@ -56,7 +56,6 @@ social:
   iconfont icon-email: mailto:mq@mqawa.com || Email
   iconfont icon-github: https://github.com/mqawa/ || Github
   iconfont icon-bilibili-line: https://space.bilibili.com/524472379 || bilibili
-  iconfont icon-cloud: https://cloud.mqawa.com || cloud
 
 # tag-plugins-plus
 # see https://akilar.top/posts/615e2dec/
@@ -110,7 +109,7 @@ search:
 # electric_clock
 # see https://akilar.top/posts/4e39cf4a/
 electric_clock:
-  enable: true # 开关
+  enable: false # 开关
   priority: 5 #过滤器优先权
   enable_page: all # 应用页面
   exclude:
@@ -721,15 +720,15 @@ aside:
     button:
       enable: true
       icon: iconfont icon-home
-      text: MQ's Home
-      link: https://mqawa.com/
+      text: Home
+      link: 
   card_announcement:
     enable: true
     content: 
       - '
-      欢迎来到 MQ 的博客
+      欢迎
       <br>
-      这是 MQ 闲来无事（摸鱼）时用来分享知识，记录生活的地方
+      编辑_config.butterfly.yml第727行
       '
   card_recent_post:
     enable: true
